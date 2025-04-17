@@ -17,7 +17,16 @@ petstore-app/
 ├── tsconfig.json
 ├── vite.config.ts
 └── src/
-    └── main.ts
+    └/api
+        └──petApi.ts
+    └──/componets
+        └──AddPetForm.tsx
+        └──PetList.tsx    
+    └──App.tsx
+    └──index.css
+    └──index.tsx
+    └── main.tsx
+    └──style.css
 ```
 
 ##  Installation

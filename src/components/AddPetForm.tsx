@@ -25,7 +25,7 @@ const AddPetForm = () => {
       <form onSubmit={handleSubmit}>
         <input
           type="text"
-          placeholder="Imię"
+          placeholder="Nazwa"
           value={name}
           onChange={(e) => setName(e.target.value)}
           required
